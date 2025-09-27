@@ -1,0 +1,33 @@
+
+h1{
+    background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    border-top: 20px solid brown;
+    border-bottom: 10px solid brown;
+}
+
+.qwerty{
+    border: 10px;
+    
+}
+
+.qweytr{
+    background-color: aliceblue;
+    border: 1px solid #000;
+    border-radius: 6px;
+    text-align: center;
+    width: 300px;
+}
+*{
+    background-color: bisque;
+}
+
+.qweytr button{
+    background-color: black;
+    color: aliceblue;
+
+}
